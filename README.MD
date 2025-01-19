@@ -4,4 +4,4 @@
 - 💻 I'm currently working on the Bot for Community Discord!
 - 📖 I'm learning the Coding in Java and TypeScript
 
-[![byskiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=byskiller455)]
+![byskiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=byskiller455&show_icons=true&bg_color=00000000)
