@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm byskiller</h1>
 <h3 align="center">I'm mainly a Discord Bot Developer! Working since 2024 on Bots 👋</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byskiller455&label=Profile%20views&color=0e75b6&style=flat" alt="byskiller455" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byskiller455" alt="byskiller455" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
